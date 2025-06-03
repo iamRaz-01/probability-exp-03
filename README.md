@@ -1,7 +1,7 @@
 # Ex:03 Correlation and regression for data analysis
 
-### Developed by: Mohamed Riyaz Ahamed
-### Register number: 212224240092
+### Developed by: Abdul Rasak N 
+### Register number: 212224240001
 
 # Aim : 
 
